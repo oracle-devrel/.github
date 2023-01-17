@@ -7,7 +7,7 @@ Oracle DevRel GitHub Organization houses projects intended to be examples or for
 ## Get Started
 
 - [Learn about open source at Oracle](https://developer.oracle.com/open-source/)
-- [Join Oracle's developer community](https://bit.ly/devrel_slack)
+- [Join Oracle's developer community](https://bit.ly/odevrel_slack)
 
 ## Resources
 
