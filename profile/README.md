@@ -1,5 +1,7 @@
 [![Oracle DevRel GitHub](oracle-devlive.jpg)](https://developer.oracle.com/community/events/devlive-level-up-march-2023.html)
 
+![Oracle DevRel](devrel-github.png)
+
 # Oracle DevRel
 
 Oracle DevRel GitHub Organization houses projects intended to be examples or for instructional purposes, and not generally intended for use in production by our customers.
