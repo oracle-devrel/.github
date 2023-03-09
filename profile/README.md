@@ -1,4 +1,4 @@
-![Oracle DevRel GitHub](devrel-github.png)
+[![Oracle DevRel GitHub](oracle-devlive.jpg)](https://developer.oracle.com/community/events/devlive-level-up-march-2023.html)
 
 # Oracle DevRel
 
