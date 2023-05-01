@@ -1,8 +1,6 @@
-![Oracle DevRel](devrel-github.png)
+# Oracle Developers
 
-# Oracle DevRel
-
-Oracle DevRel GitHub Organization houses projects intended to be examples or for instructional purposes, and not generally intended for use in production by our customers.
+The Oracle DevRel GitHub Organization houses projects intended to be examples or for instructional purposes, and not generally intended for use in production by our customers.
 
 ## Get Started
 
